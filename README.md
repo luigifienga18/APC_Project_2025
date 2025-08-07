@@ -1,7 +1,4 @@
 # APC_Project_2025
-
-
-# APC_Project_2025
 Proggetto realizzato da Fienga Luigi [M63001733], Andrea Roscigno [M63001778] e Serena Savarese [M63001855]
 
 # Automatic Water Dispenser
